@@ -46,3 +46,5 @@ secure coding and mental awareness. I look forward to working on a team that is 
 <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain-wordmark.svg" alt="TailwindCSS" width="50" height="50"/> 
 
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=microtot&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
