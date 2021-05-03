@@ -1,4 +1,4 @@
-### Hi there <img src='https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif' width='30px'>, My name is Masiror Kibet!
+### Hi there <img src='https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif' width='30px'>, My name is Masi K!
 
 I am a full stack Software Engineer specializing in Python and JavaScript programming languages. I love the daily challenges of software development: writing quality code, learning new technologies and am intrigued by the idea of solving complex problems through code and by extension quality software.I'm passionate about the accessibility of tech, 
 secure coding and mental awareness. I look forward to working on a team that is customer oriented and passionate about their product.
